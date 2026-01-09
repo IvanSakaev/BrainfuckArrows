@@ -1,6 +1,6 @@
 # BrainfuckArrows
 
-Это проект - реализация полноценного интерпретатора эзотерического языка программирования [brainfuck](https://ru.wikipedia.org/wiki/Brainfuck) в клеточном автомате под названием "[стрелочки](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82)".
+Это проект - реализация полноценного интерпретатора эзотерического языка программирования [brainfuck](https://ru.wikipedia.org/wiki/Brainfuck) в [клеточном автомате](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82) под названием "стрелочки".
 
 Brainfuck является полным по Тьюрингу языком, это означает, что этот интерпретатор по сути является компьютером.
 
@@ -45,6 +45,7 @@ Brainfuck является полным по Тьюрингу языком, эт
 
 ### Видеозапись работы
 [Видеофайл mp4](./interpreter/fibonacci.mp4)
+
 [Ссылка на youtube](https://www.youtube.com/watch?v=dJi277lKh8Q)
 
 ## Brainfuck программа
